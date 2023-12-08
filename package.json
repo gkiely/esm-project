@@ -1,0 +1,22 @@
+{
+  "name": "esm-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "tsc -p jsconfig.json"
+  },
+  "devDependencies": {
+    "@types/preact-custom-element": "^4.0.4",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "htm": "^3.1.1",
+    "preact": "^10.19.2",
+    "preact-custom-element": "^4.3.0"
+  }
+}

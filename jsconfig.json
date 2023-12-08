@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "checkJs": true,
+    "allowJs": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "skipLibCheck": true,
+  },
+  "include": ["src/**/*.js", "main.d.ts"],
+  "exclude": ["node_modules"],
+}
