@@ -7,6 +7,9 @@ const Counter = () => {
 
   return html`
     <div style="display: flex; gap: .5rem">
+      <button type="button" onClick=${() => setCount(count - 1)}>
+        Decrement
+      </button>
       <button type="button" onClick=${() => setCount(count + 1)}>
         Increment
       </button>
