@@ -1,4 +1,4 @@
-The goal of this project was to create a buildless application using web components that has JSDOC type checking.
+The goal of this project was to create a buildless application using web components that has JSDoc type checking.
 
 - [Vite](https://vitejs.dev/) is used for the dev server and can be used to bundle, but is not necessary.
 - [Preact](https://preactjs.com/) is used for the UI library.
