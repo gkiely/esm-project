@@ -15,3 +15,5 @@ npx http-server -p 8000 -o esm-project
 ```
 
 Example component:
+
+<img width="613" alt="image" src="https://github.com/gkiely/esm-project/assets/1948935/0b04af74-f9bf-4387-bc7c-acd1b09fa31b">
