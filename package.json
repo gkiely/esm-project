@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000 --open",
+    "dev-sandbox": "vite --port 3000",
+    "http-dev": "npx --yes http-server -p 3000 -o .",
     "build": "vite build",
     "preview": "vite preview",
     "check": "tsc -p jsconfig.json"
